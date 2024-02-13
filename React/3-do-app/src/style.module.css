@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  justify-content: center;
+  width: 100wh;
+  height: 100vh;
+  background-color: #ece2d0;
+}
+
+.content {
+  display: flex;
+  justify-content: flex-start;
+  width: 33%;
+  height: 100%;
+  border: 1px solid;
+  flex-direction: column;
+}
